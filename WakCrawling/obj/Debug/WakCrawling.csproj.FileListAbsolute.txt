@@ -1,0 +1,14 @@
+C:\Users\SJ507-5\Desktop\WakCrawling\WakCrawling\bin\Debug\WakCrawling.exe.config
+C:\Users\SJ507-5\Desktop\WakCrawling\WakCrawling\bin\Debug\WakCrawling.exe
+C:\Users\SJ507-5\Desktop\WakCrawling\WakCrawling\bin\Debug\WakCrawling.pdb
+C:\Users\SJ507-5\Desktop\WakCrawling\WakCrawling\obj\Debug\WakCrawling.csproj.AssemblyReference.cache
+C:\Users\SJ507-5\Desktop\WakCrawling\WakCrawling\obj\Debug\WakCrawling.Form1.resources
+C:\Users\SJ507-5\Desktop\WakCrawling\WakCrawling\obj\Debug\WakCrawling.Properties.Resources.resources
+C:\Users\SJ507-5\Desktop\WakCrawling\WakCrawling\obj\Debug\WakCrawling.csproj.GenerateResource.cache
+C:\Users\SJ507-5\Desktop\WakCrawling\WakCrawling\obj\Debug\WakCrawling.csproj.CoreCompileInputs.cache
+C:\Users\SJ507-5\Desktop\WakCrawling\WakCrawling\obj\Debug\WakCrawling.exe
+C:\Users\SJ507-5\Desktop\WakCrawling\WakCrawling\obj\Debug\WakCrawling.pdb
+C:\Users\SJ507-5\Desktop\WakCrawling\WakCrawling\bin\Debug\HtmlAgilityPack.dll
+C:\Users\SJ507-5\Desktop\WakCrawling\WakCrawling\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\SJ507-5\Desktop\WakCrawling\WakCrawling\bin\Debug\HtmlAgilityPack.xml
+C:\Users\SJ507-5\Desktop\WakCrawling\WakCrawling\obj\Debug\WakCrawling.csproj.CopyComplete
